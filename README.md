@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4AF37&background=0B1F3A&center=false&vCenter=true&width=760&height=90&lines=Hi%2C+I'm+Meenakshi;AI%2FML+%2B+Full-Stack+Developer;Building+practical+AI+applications;Computer+Vision+%7C+Generative+AI+%7C+Web)](https://github.com/meenakshichidambaram767-arch)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:D4AF37&height=180&section=header&text=Hi,%20I'm%20Meenakshi&fontSize=42&fontColor=F5F0E1&animation=fadeIn&fontAlignY=38&desc=AI/ML%20+%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&background=0B1F3A&center=true&vCenter=true&width=760&height=60&lines=Building+practical+AI+applications;Computer+Vision+%7C+Generative+AI+%7C+Web;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
+</p>
 ## About Me
 
 ```js
