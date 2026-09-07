@@ -1,109 +1,98 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">
-  Hi, I'm Meenakshi 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&lines=AI%2FML+%2B+Full-Stack+Developer;Building+Practical+AI+Applications;Computer+Vision+%7C+Generative+AI+%7C+Web;Turning+Ideas+into+Real-World+Projects+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:D4AF37&height=180&section=header&text=Meenakshi&fontSize=48&fontColor=F5F0E1&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%2B%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=F5F0E1" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=meenakshichidambaram767-arch&label=Profile%20Views&color=302e77&style=flat" />
+  <img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=Follow&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meenakshichidambaram767-arch&label=Profile%20Views&color=grey&style=flat" />
-  <img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=Followers&style=flat&color=grey" />
+<!-- ===================== PROFILE DASHBOARD ===================== -->
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+
+<img src="https://api.dicebear.com/7.x/notionists/svg?seed=Meenakshi&backgroundColor=0B1F3A" width="160" height="160" style="border-radius:50%" />
+
+### Meenakshi
+<sub>@meenakshichidambaram767-arch</sub>
+
+*CS Engineering student · AI/ML + Full-Stack Developer*
+<br/>Coimbatore, India 🇮🇳
+
+<a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=Follow&style=for-the-badge&color=D4AF37&labelColor=0B1F3A" /></a>
+
+<p>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=D4AF37" /></a>
 </p>
 
----
+**Skills**
+<br/>
+<img src="https://img.shields.io/badge/-Python-0B1F3A?style=flat-square&color=302e77" />
+<img src="https://img.shields.io/badge/-Java-0B1F3A?style=flat-square&color=302e77" />
+<img src="https://img.shields.io/badge/-TypeScript-0B1F3A?style=flat-square&color=302e77" />
+<br/>
+<img src="https://img.shields.io/badge/-React-0B1F3A?style=flat-square&color=302e77" />
+<img src="https://img.shields.io/badge/-Next.js-0B1F3A?style=flat-square&color=302e77" />
+<img src="https://img.shields.io/badge/-Tailwind-0B1F3A?style=flat-square&color=302e77" />
+<br/>
+<img src="https://img.shields.io/badge/-YOLO/CV-0B1F3A?style=flat-square&color=302e77" />
+<img src="https://img.shields.io/badge/-GenAI-0B1F3A?style=flat-square&color=302e77" />
 
-## 🧭 About Me
+</td>
+<td width="70%" valign="top">
 
-- 🎓 Computer Science Engineering student, graduating **2028**
-- 🤖 Building practical **AI-powered applications**
-- 🌐 Exploring **full-stack web development**
-- 👁️ Interested in **Computer Vision & Generative AI**
-- 🧩 Currently strengthening **Data Structures & Algorithms**
-- 🚀 Love turning ideas into working products and hackathon projects
-- 🌱 Currently learning **backend development, AI/ML & applied GenAI**
-- 🎯 Goal: Build useful products, contribute to open source, and keep improving
+<!-- stat pills -->
+<table width="100%">
+<tr>
+<td align="center">📦<br/><b>Repositories</b><br/><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/meenakshichidambaram767-arch&label=&query=public_repos&color=302e77&style=flat-square" /></td>
+<td align="center">⭐<br/><b>Stars</b><br/><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/meenakshichidambaram767-arch&label=&query=$.public_repos&color=302e77&style=flat-square" /></td>
+<td align="center">👥<br/><b>Followers</b><br/><img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=&style=flat-square&color=302e77" /></td>
+<td align="center">🎯<br/><b>Focus</b><br/><sub>AI + Web</sub></td>
+</tr>
+</table>
 
----
+#### 📌 Pinned Projects
 
-## ⚡ Tech Stack
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/grademind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=grademind&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/bloomtale"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=bloomtale&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/minchal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=minchal&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/pathfinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=pathfinder&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/goodboxd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=goodboxd&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=classroom-exam-monitoring&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
+</tr>
+</table>
 
-### 👩‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
-</p>
+> ⚠️ Pin cards only render once the repo exists publicly under your GitHub with that exact name — rename the `repo=` values above to match your real repo slugs.
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-</p>
-
-### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
-</p>
-<p align="center">
-  <code>YOLO</code> • <code>Computer Vision</code> • <code>Generative AI</code> • <code>OCR</code> • <code>LLMs</code>
-</p>
-
-### 🛠️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postgresql" />
-</p>
-
-### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🧠 **GradeMIND** | AI-powered examination evaluation platform | `Next.js` `React` `TypeScript` `AI` |
-| 🌸 **BloomTale** | AI-powered visual-novel app teaching adolescent girls about puberty & menstrual health | `Flutter` `AI` |
-| ⚡ **Minchal (மின்சாரம்)** | Estimates appliance-level electricity consumption from a photographed electricity bill | `Python` `AI` `OCR` |
-| 🎯 **Pathfinder** | AI-powered career guidance platform | `AI` `Web` |
-| 🎬 **GOODBOXD** | Movie tracking and review application | `HTML` `CSS` `JavaScript` |
-| 🚗 **RIDEMATE** | Ride-sharing and price comparison application | `Web` `JavaScript` |
-| 👁️ **Classroom & Exam Monitoring** | YOLO-based student detection and examination malpractice monitoring | `Python` `YOLO` `OpenCV` |
-
-> 📌 Pin your top repos on your GitHub profile — the cards below pull live data once repo names are linked.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧩 What I'm Currently Working On
 
 ```text
-🤖 Artificial Intelligence
-████████████████████░░░░  80%
-
-🌐 Full-Stack Development
-██████████████████░░░░░░  70%
-
-🧠 Data Structures & Algorithms
-███████████████░░░░░░░░░  60%
-
-👁️ Computer Vision
-████████████████░░░░░░░░  65%
-
-⚙️ Backend Development
-████████████░░░░░░░░░░░░  50%
+🤖 Artificial Intelligence         ████████████████████░░░░  80%
+🌐 Full-Stack Development          ██████████████████░░░░░░  70%
+🧠 Data Structures & Algorithms    ███████████████░░░░░░░░░  60%
+👁️ Computer Vision                 ████████████████░░░░░░░░  65%
+⚙️ Backend Development             ████████████░░░░░░░░░░░░  50%
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" />
@@ -128,14 +117,6 @@
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&color=0B1F3A&titleColor=D4AF37&textColor=F5F0E1" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -145,3 +126,5 @@
 </p>
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on AI + web projects! ✨</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0B1F3A&height=100&section=footer" />
