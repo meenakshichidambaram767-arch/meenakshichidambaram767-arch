@@ -11,10 +11,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meenakshichidambaram767-arch&label=Profile%20Views&color=FF0080&style=for-the-badge" />
-</p>
-
 ---
 
 <!-- ===================== PROFILE CARD ===================== -->
@@ -22,7 +18,7 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="https://api.dicebear.com/7.x/notionists/svg?seed=Meenakshi&backgroundColor=7928CA" width="170" height="170" style="border-radius:50%;border:4px solid #FF0080" />
+<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Meenakshi&top=longHairStraight2&hairColor=2c1b18&accessories=round&accessoriesColor=6c4f3d&clothing=collarSweater&clothingColor=ffb6c1&skinColor=d08b5b&eyes=happy&eyebrows=default&mouth=smile&backgroundColor=7928ca" width="170" height="170" style="border-radius:50%;border:4px solid #FF0080" />
 
 ### 💫 Meenakshi
 <sub>@meenakshichidambaram767-arch</sub>
@@ -61,12 +57,6 @@
 ### ⚡ Minchal (மின்சாரம்)
 <img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-Gemini-111?style=flat-square&logoColor=7928CA" /> <img src="https://img.shields.io/badge/-OCR-111?style=flat-square&logoColor=FF0080" />
 <br/>Hackathon project — snap a photo of your electricity bill + appliance nameplates, get an estimated per-appliance power breakdown.
-
-<br/>
-
-### 🎯 Pathfinder
-<img src="https://img.shields.io/badge/-AI-111?style=flat-square&logoColor=FF0080" /> <img src="https://img.shields.io/badge/-Web-111?style=flat-square&logoColor=00DFD8" />
-<br/>AI-powered career guidance platform to help students find the right path.
 
 <br/>
 
