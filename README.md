@@ -1,99 +1,70 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00DFD8&height=220&section=header&text=Hi%2C%20I'm%20Meenakshi&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%2FML%20%2B%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=Building+practical+AI+applications+%F0%9F%A4%96;Turning+ideas+into+real-world+products+%F0%9F%9A%80;Computer+Vision+%7C+Generative+AI+%7C+Web+%F0%9F%92%BB;Always+shipping%2C+always+learning+%E2%9C%A8" />
-</p>
-
+![Animated about me typing banner](assets/live-typing.svg)
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1OXFhcnh6MHQ1ZnBoemtpMmhxMnN2eWpjaWU1N3B4ZHJpMDFqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ekjmhJUGHJm7FC4Juo/giphy.gif" width="100%">
 </p>
-
----
-
-<!-- ===================== PROFILE CARD ===================== -->
-<table width="100%">
-<tr>
-<td width="30%" valign="top" align="center">
-
-<img src="https://api.dicebear.com/10.x/lorelei/svg?seed=Meenakshi&backgroundColor=7928ca&glassesProbability=100" width="170" height="170" style="border-radius:50%;border:4px solid #FF0080" />
-
-### 💫 Meenakshi
-<sub>@meenakshichidambaram767-arch</sub>
-
-*CS Engineering student · AI/ML + Full-Stack Developer*
-<br/>📍 Coimbatore, India 🇮🇳
-<br/>🎓 Graduating 2028
-
-<br/>
-
-<img src="https://img.shields.io/badge/-Python-FF0080?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/-Java-7928CA?style=for-the-badge&logo=java&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/-TypeScript-00DFD8?style=for-the-badge&logo=typescript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/-React-FF0080?style=for-the-badge&logo=react&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/-Next.js-7928CA?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/-YOLO/CV-00DFD8?style=for-the-badge&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/-GenAI-FF0080?style=for-the-badge&logoColor=white" />
-
-</td>
-<td width="70%" valign="top">
-
-## 🚀 Featured Projects
-
-### 🧠 GradeMIND
-<img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=FF0080" /> <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=7928CA" />
-<br/>AI-powered examination evaluation platform that automates grading and feedback.
-
-<br/>
-
-### 🌸 BloomTale
-<img src="https://img.shields.io/badge/-Flutter-111?style=flat-square&logo=flutter&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-AI-111?style=flat-square&logoColor=FF0080" />
-<br/>AI-powered mobile app teaching adolescent girls (10–18) about puberty & menstrual health through an interactive visual-novel story, plus an AI companion.
-
-<br/>
-
-### ⚡ Minchal (மின்சாரம்)
-<img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-Gemini-111?style=flat-square&logoColor=7928CA" /> <img src="https://img.shields.io/badge/-OCR-111?style=flat-square&logoColor=FF0080" />
-<br/>Hackathon project — snap a photo of your electricity bill + appliance nameplates, get an estimated per-appliance power breakdown.
-
-<br/>
-
-### 🎬 GOODBOXD
-<img src="https://img.shields.io/badge/-HTML-111?style=flat-square&logo=html5&logoColor=FF0080" /> <img src="https://img.shields.io/badge/-CSS-111?style=flat-square&logo=css3&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=7928CA" />
-<br/>Movie tracking and review web application.
-
-<br/>
-
-### 🚗 RIDEMATE
-<img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=7928CA" /> <img src="https://img.shields.io/badge/-Web-111?style=flat-square&logoColor=00DFD8" />
-<br/>Ride-sharing and price comparison application.
-
-<br/>
-
-### 👁️ Classroom & Exam Monitoring
-<img src="https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FF0080" /> <img src="https://img.shields.io/badge/-YOLO-111?style=flat-square&logoColor=00DFD8" /> <img src="https://img.shields.io/badge/-OpenCV-111?style=flat-square&logo=opencv&logoColor=7928CA" />
-<br/>YOLO-based student detection and examination malpractice monitoring system.
-
-</td>
-</tr>
-</table>
-
----
-
+About Me
+```js
+const meenakshi = {
+  role: "Computer Science Engineering student",
+  university: "Sri Shakthi Institute of Engineering and Technology, Coimbatore",
+  graduating: 2028,
+  focus: ["AI/ML", "full-stack web", "computer vision", "generative AI"],
+  currentlyBuilding: "AI-powered apps across ed-tech, hackathons, and web",
+  mindset: "Turn ideas into working products, one project at a time"
+};
+```
+🤖 Building practical AI-powered applications across ed-tech, health, and utilities
+🌐 Exploring full-stack web development with React, Next.js, and Tailwind
+👁️ Interested in Computer Vision & Generative AI
+🧩 Currently strengthening Data Structures & Algorithms
+🚀 Love turning ideas into working products and hackathon projects
+🎯 Goal: build useful products, contribute to open source, keep improving
+Tech Arsenal
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="220">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,flutter,opencv,pytorch,nodejs,flask,mysql,postgresql,git,github,vscode,docker,vercel" />
 </p>
-
-## 📫 Let's Connect
-
+![Color-coded tech arsenal](assets/tech-arsenal.svg)
+AI Stack
+Claude · ChatGPT · Gemini
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-7928CA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/badge/GitHub-00DFD8?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
-
-<p align="center"><i>✨ Always open to collaborating on AI + web projects — let's build something! ✨</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,50:7928CA,100:FF0080&height=120&section=footer" />
+Featured Work
+![GradeMIND project card](assets/project-grademind.svg) ![BloomTale project card](assets/project-bloomtale.svg)
+![Minchal project card](assets/project-minchal.svg) ![GOODBOXD project card](assets/project-goodboxd.svg)
+![RIDEMATE project card](assets/project-ridemate.svg) ![Classroom & Exam Monitoring project card](assets/project-classroom.svg)
+> 📌 Swap the `href` targets above for your real repo URLs once each project is pushed.
+GitHub Dashboard
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshichidambaram767-arch&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=0B1F3A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meenakshichidambaram767-arch&hide_border=true&bg_color=0B1F3A&color=D4AF37&line=D4AF37&point=F5F0E1&area_color=D4AF37&title_color=D4AF37" />
+</p>
+Contribution Snake
+![Snake eating my contributions](https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/output/github-contribution-grid-snake.svg)
+> ⚙️ This needs `.github/workflows/snake.yml` (included) committed to your repo. GitHub Actions will generate the snake automatically on a daily schedule — see setup notes below.
+More About The Build
+What I like building
+Practical, working products at the intersection of AI and the web — education tools, computer vision systems, hackathon utilities, and full-stack apps that solve a real problem immediately.
+Current focus
+Strengthening Data Structures & Algorithms fundamentals
+Going deeper on applied GenAI and computer vision
+Shipping more full-stack projects end-to-end
+Exploring backend development alongside AI/ML
+Current repositories on my map
+GradeMIND — AI-powered examination evaluation platform (Next.js, React, TypeScript)
+BloomTale — AI visual-novel app teaching adolescent health topics (Flutter)
+Minchal (மின்சாரம்) — Electricity consumption estimator from a photographed bill (Python, Gemini, OCR)
+GOODBOXD — Movie tracking and review application (HTML, CSS, JavaScript)
+RIDEMATE — Ride-sharing and price comparison app (JavaScript)
+Classroom & Exam Monitoring — YOLO-based detection system (Python, YOLO, OpenCV)
+Pathfinder — AI-powered career guidance platform
+Connect
+![LinkedIn profile](assets/connect-linkedin.svg) ![Email me](assets/connect-email.svg) ![Explore GitHub](assets/connect-github.svg)
