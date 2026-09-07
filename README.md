@@ -1,4 +1,4 @@
-[![Animated about me typing banner](assets/live-typing.svg)](assets/live-typing.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4AF37&background=0B1F3A&center=false&vCenter=true&width=760&height=90&lines=Hi%2C+I'm+Meenakshi;AI%2FML+%2B+Full-Stack+Developer;Building+practical+AI+applications;Computer+Vision+%7C+Generative+AI+%7C+Web)](https://github.com/meenakshichidambaram767-arch)
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1OXFhcnh6MHQ1ZnBoemtpMmhxMnN2eWpjaWU1N3B4ZHJpMDFqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ekjmhJUGHJm7FC4Juo/giphy.gif" width="100%">
