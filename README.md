@@ -1,13 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:D4AF37&height=180&section=header&text=Meenakshi&fontSize=48&fontColor=F5F0E1&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%2B%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=F5F0E1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meenakshichidambaram767-arch&label=Profile%20Views&color=302e77&style=flat" />
-  <img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=Follow&style=social" />
-</p>
-
 <!-- ===================== PROFILE DASHBOARD ===================== -->
 <table width="100%">
 <tr>
@@ -45,34 +35,55 @@
 </td>
 <td width="70%" valign="top">
 
-<!-- stat pills -->
-<table width="100%">
-<tr>
-<td align="center">📦<br/><b>Repositories</b><br/><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/meenakshichidambaram767-arch&label=&query=public_repos&color=302e77&style=flat-square" /></td>
-<td align="center">⭐<br/><b>Stars</b><br/><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/meenakshichidambaram767-arch&label=&query=$.public_repos&color=302e77&style=flat-square" /></td>
-<td align="center">👥<br/><b>Followers</b><br/><img src="https://img.shields.io/github/followers/meenakshichidambaram767-arch?label=&style=flat-square&color=302e77" /></td>
-<td align="center">🎯<br/><b>Focus</b><br/><sub>AI + Web</sub></td>
-</tr>
-</table>
+### 🚀 Featured Work
 
-#### 📌 Pinned Projects
+<details open>
+<summary><b>🧠 GradeMIND</b> — AI-powered examination evaluation platform</summary>
+<br/>
+<img src="https://img.shields.io/badge/-Next.js-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-React-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-TypeScript-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-AI-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Automates grading and feedback for exam answer sheets using an AI evaluation pipeline.
+</details>
 
-<table width="100%">
-<tr>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/grademind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=grademind&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/bloomtale"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=bloomtale&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/minchal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=minchal&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/pathfinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=pathfinder&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/goodboxd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=goodboxd&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-<td width="50%"><a href="https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=meenakshichidambaram767-arch&repo=classroom-exam-monitoring&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1&border_color=D4AF37" /></a></td>
-</tr>
-</table>
+<details>
+<summary><b>🌸 BloomTale</b> — AI-driven visual novel for adolescent health education</summary>
+<br/>
+<img src="https://img.shields.io/badge/-Flutter-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-AI-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Teaches girls aged 10–18 about puberty and menstrual health through interactive storytelling, plus an AI companion.
+</details>
 
-> ⚠️ Pin cards only render once the repo exists publicly under your GitHub with that exact name — rename the `repo=` values above to match your real repo slugs.
+<details>
+<summary><b>⚡ Minchal (மின்சாரம்)</b> — Electricity consumption estimator</summary>
+<br/>
+<img src="https://img.shields.io/badge/-Python-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-Gemini-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-OCR-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Photograph an electricity bill and your appliance nameplates — estimates per-appliance power draw. Built at a hackathon.
+</details>
+
+<details>
+<summary><b>🎯 Pathfinder</b> — AI-powered career guidance platform</summary>
+<br/>
+<img src="https://img.shields.io/badge/-AI-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-Web-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Guides students toward career paths that fit their skills and interests.
+</details>
+
+<details>
+<summary><b>🎬 GOODBOXD</b> — Movie tracking & review app</summary>
+<br/>
+<img src="https://img.shields.io/badge/-HTML-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-CSS-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-JavaScript-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Track and review movies you've watched.
+</details>
+
+<details>
+<summary><b>👁️ Classroom & Exam Monitoring</b> — YOLO-based detection system</summary>
+<br/>
+<img src="https://img.shields.io/badge/-Python-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-YOLO-0B1F3A?style=flat-square&color=302e77" /> <img src="https://img.shields.io/badge/-OpenCV-0B1F3A?style=flat-square&color=302e77" />
+<br/><br/>
+Detects students in a classroom and flags examination malpractice using computer vision.
+</details>
 
 </td>
 </tr>
@@ -80,36 +91,45 @@
 
 ---
 
-## 🧩 What I'm Currently Working On
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-```text
-🤖 Artificial Intelligence         ████████████████████░░░░  80%
-🌐 Full-Stack Development          ██████████████████░░░░░░  70%
-🧠 Data Structures & Algorithms    ███████████████░░░░░░░░░  60%
-👁️ Computer Vision                 ████████████████░░░░░░░░  65%
-⚙️ Backend Development             ████████████░░░░░░░░░░░░  50%
-```
+### 🧩 Currently Building Up
+
+| | |
+|---|---|
+| 🤖 Artificial Intelligence | ▓▓▓▓▓▓▓▓░░ 80% |
+| 🌐 Full-Stack Development | ▓▓▓▓▓▓▓░░░ 70% |
+| 👁️ Computer Vision | ▓▓▓▓▓▓▓░░░ 65% |
+| 🧠 Data Structures & Algorithms | ▓▓▓▓▓▓░░░░ 60% |
+| ⚙️ Backend Development | ▓▓▓▓▓░░░░░ 50% |
+
+</td>
+<td width="45%" valign="top">
+
+### 🎯 Goals
+- Ship useful AI + web products
+- Contribute to open source
+- Go deeper on applied GenAI
+- Keep leveling up DSA fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+### 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshichidambaram767-arch&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=0B1F3A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=0B1F3A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=meenakshichidambaram767-arch&hide_border=true&bg_color=0B1F3A&color=D4AF37&line=D4AF37&point=F5F0E1&area_color=D4AF37&title_color=D4AF37" />
 </p>
-
----
-
-## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=meenakshichidambaram767-arch&theme=gitdimmed&no-frame=true&row=1&column=6" />
@@ -117,14 +137,10 @@
 
 ---
 
-## 📫 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-0B1F3A?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://github.com/meenakshichidambaram767-arch"><img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on AI + web projects! ✨</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0B1F3A&height=100&section=footer" />
+<p align="center"><i>Always open to collaborating on AI + web projects ✨</i></p>
