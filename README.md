@@ -18,7 +18,7 @@
 <tr>
 <td width="30%" valign="top" align="center">
 
-<img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Meenakshi&top=longHairStraight2&hairColor=2c1b18&accessories=round&accessoriesColor=6c4f3d&clothing=collarSweater&clothingColor=ffb6c1&skinColor=d08b5b&eyes=happy&eyebrows=default&mouth=smile&backgroundColor=7928ca" width="170" height="170" style="border-radius:50%;border:4px solid #FF0080" />
+<img src="https://api.dicebear.com/10.x/lorelei/svg?seed=Meenakshi&backgroundColor=7928ca&glassesProbability=100" width="170" height="170" style="border-radius:50%;border:4px solid #FF0080" />
 
 ### 💫 Meenakshi
 <sub>@meenakshichidambaram767-arch</sub>
