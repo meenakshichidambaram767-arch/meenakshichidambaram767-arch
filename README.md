@@ -18,12 +18,12 @@ const meenakshi = {
 };
 ```
 
-- 🤖 Building practical **AI-powered applications** across ed-tech, health, and utilities
-- 🌐 Exploring **full-stack web development** with React, Next.js, and Tailwind
-- 👁️ Interested in **Computer Vision & Generative AI**
-- 🧩 Currently strengthening **Data Structures & Algorithms**
-- 🚀 Love turning ideas into working products and hackathon projects
-- 🎯 Goal: build useful products, contribute to open source, keep improving
+-  Building practical **AI-powered applications** across ed-tech, health, and utilities
+-  Exploring **full-stack web development** with React, Next.js, and Tailwind
+-  Interested in **Computer Vision & Generative AI**
+-  Currently strengthening **Data Structures & Algorithms**
+-  Love turning ideas into working products and hackathon projects
+-  Goal: build useful products, contribute to open source, keep improving
 
 ## Tech Arsenal
 
