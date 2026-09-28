@@ -1,101 +1,102 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:D4AF37&height=200&section=header&text=Meenakshi&fontSize=54&fontColor=F5F0E1&animation=fadeIn&fontAlignY=36&desc=The%20teammate%20who%20ships%20the%20AI%20%2B%20the%20UI&descAlignY=58&descSize=19&descColor=F5F0E1" width="100%" alt="Meenakshi: the teammate who ships the AI and the UI"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:D4AF37&height=180&section=header&text=Hi,%20I'm%20Meenakshi&fontSize=42&fontColor=F5F0E1&animation=fadeIn&fontAlignY=38&desc=AI/ML%20+%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D4AF37&background=0B1F3A&center=true&vCenter=true&width=780&height=60&lines=Prompt+%E2%86%92+working+demo+in+one+hackathon;Computer+Vision+%C2%B7+Generative+AI+%C2%B7+Full-Stack;CSE+student+%40+SIET+Coimbatore+%C2%B7+Class+of+2029" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&background=0B1F3A&center=true&vCenter=true&width=760&height=60&lines=Building+practical+AI+applications;Computer+Vision+%7C+Generative+AI+%7C+Web;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
 </p>
+## About Me
 
-<br/>
+```js
+const meenakshi = {
+  role: "Computer Science Engineering student",
+  university: "Sri Shakthi Institute of Engineering and Technology, Coimbatore",
+  graduating: 2028,
+  focus: ["AI/ML", "full-stack web", "computer vision", "generative AI"],
+  currentlyBuilding: "AI-powered apps across ed-tech, hackathons, and web",
+  mindset: "Turn ideas into working products, one project at a time"
+};
+```
 
-## ⚡ Hackathon Teammate Card
+-  Building practical **AI-powered applications** across ed-tech, health, and utilities
+-  Exploring **full-stack web development** with React, Next.js, and Tailwind
+-  Interested in **Computer Vision & Generative AI**
+-  Currently strengthening **Data Structures & Algorithms**
+-  Love turning ideas into working products and hackathon projects
+-  Goal: build useful products, contribute to open source, keep improving
 
-| | |
-|---|---|
-| **I own** | The AI pipeline (vision models, LLM prompts, OCR/extraction) and the front end that makes it demo-able |
-| **I ship with** | Python · Next.js · React · TypeScript · Tailwind · Flutter · YOLO · Gemini |
-| **My style** | Get an ugly end-to-end version working first, then polish what the judges will actually see |
-| **Pair me with** | Backend / infra minds. I'm levelling up there and love learning from strong builders |
-| **Now learning** | Data Structures & Algorithms · applied GenAI · backend development |
-
-<br/>
-
-## 🚀 Things I've Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [GradeMIND](https://github.com/meenakshichidambaram767-arch/grademind)
-**Problem:** Evaluating exams by hand is slow and inconsistent.
-**What it does:** AI-powered exam evaluation platform.
-<br/>`Next.js 14` `React` `TypeScript` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 [BloomTale](https://github.com/meenakshichidambaram767-arch/bloomtale)
-**Problem:** Girls aged 10–18 rarely get friendly, accurate puberty and menstrual-health education.
-**What it does:** Interactive visual-novel storytelling app with AI support.
-<br/>`Flutter` `Generative AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [Minchal (மின்சாரம்)](https://github.com/meenakshichidambaram767-arch/minchal)
-**Problem:** Nobody knows which appliance is eating their electricity bill.
-**What it does:** Photograph your bill and appliance nameplates, get an appliance-level consumption estimate. *Built at a hackathon.*
-<br/>`Python` `Gemini` `OCR`
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ [Classroom & Exam Monitoring](https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring)
-**Problem:** Spotting students and malpractice in a room full of people is hard to do by eye.
-**What it does:** YOLO-based student detection and exam malpractice detection.
-<br/>`Python` `YOLO` `OpenCV`
-
-</td>
-</tr>
-</table>
-
-**Also shipped:** [GOODBOXD](https://github.com/meenakshichidambaram767-arch/goodboxd) (movie tracking & reviews) · [RIDEMATE](https://github.com/meenakshichidambaram767-arch/ridemate) (ride-sharing & price comparison) · Pathfinder (AI career guidance)
-
-<!-- TODO: add a demo GIF or screenshot under each project above once you have them -->
-
-<br/>
-
-## 🧰 Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,flutter,opencv,pytorch,nodejs,flask,mysql,postgresql,git,github,vscode,docker,vercel" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,tailwind,flutter,opencv,pytorch,nodejs,flask,mysql,postgresql,git,github,vscode,docker,vercel" />
+</p>
+
+[![Color-coded tech arsenal](assets/tech-arsenal.svg)](assets/tech-arsenal.svg)
+
+## AI Stack
+
+**Claude** · **ChatGPT** · **Gemini**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+## Featured Work
+
+[![GradeMIND project card](assets/project-grademind.svg)](https://github.com/meenakshichidambaram767-arch/grademind) [![BloomTale project card](assets/project-bloomtale.svg)](https://github.com/meenakshichidambaram767-arch/bloomtale)
+
+[![Minchal project card](assets/project-minchal.svg)](https://github.com/meenakshichidambaram767-arch/minchal) [![GOODBOXD project card](assets/project-goodboxd.svg)](https://github.com/meenakshichidambaram767-arch/goodboxd)
+
+[![RIDEMATE project card](assets/project-ridemate.svg)](https://github.com/meenakshichidambaram767-arch/ridemate) [![Classroom & Exam Monitoring project card](assets/project-classroom.svg)](https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring)
+
+> 📌 Swap the `href` targets above for your real repo URLs once each project is pushed.
+
+## GitHub Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshichidambaram767-arch&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=0B1F3A&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1" />
 </p>
-
-<br/>
-
-## 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&icon_color=D4AF37&text_color=F5F0E1" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshichidambaram767-arch&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=D4AF37&text_color=F5F0E1" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meenakshichidambaram767-arch&hide_border=true&bg_color=0B1F3A&color=D4AF37&line=D4AF37&point=F5F0E1&area_color=D4AF37&title_color=D4AF37" />
 </p>
+
+## Contribution Snake
 
 ![Snake eating my contributions](https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/output/github-contribution-grid-snake.svg)
 
-<br/>
+> ⚙️ This needs `.github/workflows/snake.yml` (included) committed to your repo. GitHub Actions will generate the snake automatically on a daily schedule — see setup notes below.
 
-## 🤝 Let's Build Something
+## More About The Build
 
-Got a hackathon coming up and need someone for the AI + front-end side? Reach out.
+**What I like building**
 
-[![Email me](assets/connect-email.svg)](mailto:YOUR-EMAIL) [![LinkedIn profile](assets/connect-linkedin.svg)](YOUR-LINKEDIN-URL) [![Explore GitHub](assets/connect-github.svg)](https://github.com/meenakshichidambaram767-arch)
+Practical, working products at the intersection of AI and the web — education tools, computer vision systems, hackathon utilities, and full-stack apps that solve a real problem immediately.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0B1F3A&height=90&section=footer" width="100%" alt=""/></p>
+**Current focus**
+
+- Strengthening Data Structures & Algorithms fundamentals
+- Going deeper on applied GenAI and computer vision
+- Shipping more full-stack projects end-to-end
+- Exploring backend development alongside AI/ML
+
+**Current repositories on my map**
+
+- **GradeMIND** — AI-powered examination evaluation platform (Next.js, React, TypeScript)
+- **BloomTale** — AI visual-novel app teaching adolescent health topics (Flutter)
+- **Minchal (மின்சாரம்)** — Electricity consumption estimator from a photographed bill (Python, Gemini, OCR)
+- **GOODBOXD** — Movie tracking and review application (HTML, CSS, JavaScript)
+- **RIDEMATE** — Ride-sharing and price comparison app (JavaScript)
+- **Classroom & Exam Monitoring** — YOLO-based detection system (Python, YOLO, OpenCV)
+- **Pathfinder** — AI-powered career guidance platform
+
+## Connect
+
+[![LinkedIn profile](assets/connect-linkedin.svg)](https://www.linkedin.com/) [![Email me](assets/connect-email.svg)](mailto:youremail@example.com) [![Explore GitHub](assets/connect-github.svg)](https://github.com/meenakshichidambaram767-arch)
