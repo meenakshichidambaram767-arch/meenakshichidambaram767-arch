@@ -160,12 +160,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=2B254A&title_color=F4A6DC&icon_color=A8E6A1&text_color=F5F0E1&border_radius=14" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshichidambaram767-arch&layout=compact&hide_border=true&bg_color=2B254A&title_color=A8E6A1&text_color=F5F0E1&border_radius=14" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=2B254A&ring=F4A6DC&fire=A8E6A1&currStreakLabel=F4A6DC&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1&border_radius=14" alt="Streak Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=meenakshichidambaram767-arch&show_icons=true&hide_border=true&bg_color=2B254A&title_color=F4A6DC&icon_color=A8E6A1&text_color=F5F0E1&border_radius=14" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshichidambaram767-arch&hide_border=true&background=2B254A&ring=F4A6DC&fire=A8E6A1&currStreakLabel=F4A6DC&sideLabels=F5F0E1&currStreakNum=F5F0E1&sideNums=F5F0E1&dates=F5F0E1&border_radius=14" alt="Streak Stats" />
 </p>
 
 <p align="center">
