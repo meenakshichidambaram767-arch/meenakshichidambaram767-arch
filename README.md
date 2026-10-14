@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" alt="Hi, I'm Meenakshi — AI/ML + Full-Stack Developer" width="100%"/>
+  <img src="./assets/hero.svg" alt="Hi, I'm Meenakshi — AI/ML + Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">

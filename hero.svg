@@ -1,58 +1,493 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3M2Q4MmUzZC0zMTk1LTRiN2UtYmQxYS0zMTBkMWI3OWYxMWEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEgyz5tACsrhEf/dXCX22RAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NzllZTRjYy0wMzk5LTQzNDAtODFlNi1jYTQ2OWNhYzQzOWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNorNZfkLGvlk0q62PY0ZjzPgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggaC+jgwyb4foU2nCtFtoDTW7jqx1Yw+06z2XJzrNLYOmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLtznha4rC398V4kAAWt5mYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCACDmR15HsRP1br0CZ2GYsZq26edYtGGr2D2xfTPq42FmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjczZDgyZTNkLTMxOTUtNGI3ZS1iZDFhLTMxMGQxYjc5ZjExYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNjYjA4NWRhLTk2OTItNDAzYi04MDI3LWMzODRlMzgwM2MzYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBoL6ODDJvh+hTacK0W2gNNbuOrHVjD7TrPZcnOs0tg6aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggG4YZ6UHq/j8iooKACf+GzWrfrdHZHtCfz3bOmMsZ3ZWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggebjhH5Q7s55CDEDP8LjneVGFEgIJg8c6HBvorifkPmR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHAJeWCqznRdyADZYcXp70uWmAK/e9jMGu5ZUmNYm06v0q6gRS69aXsKrkeUhkMomDRzbKwied4MmU4T1AFBbok=</c2pa:manifest></metadata>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A3768"><animate attributeName="stop-color" values="#3A3768;#46407F;#3A3768" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#2B2956"><animate attributeName="stop-color" values="#2B2956;#3A3768;#2B2956" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
-<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#F4A6DC"/><stop offset=".45" stop-color="#F4A6DC"/><stop offset=".5" stop-color="#fff"/><stop offset=".55" stop-color="#F4A6DC"/><stop offset="1" stop-color="#F4A6DC"/>
-<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1500 0" dur="4s" repeatCount="indefinite"/></linearGradient>
-<clipPath id="r"><rect width="1000" height="400" rx="24"/></clipPath>
-</defs>
-<style>
-.t{font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif;font-weight:800} .m{font-family:'Courier New',Consolas,monospace;font-weight:700}
-@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
-@keyframes tw{0%,100%{opacity:.2;transform:scale(.7)}50%{opacity:1;transform:scale(1.15)}}
-@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
-@keyframes sw{0%,100%{transform:rotate(-5deg)}50%{transform:rotate(6deg)}}
-@keyframes pop{0%{transform:translateY(30px);opacity:0}100%{transform:translateY(0);opacity:1}}
-@keyframes ln{0%,8%{clip-path:inset(0 100% 0 0)}25%,92%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 100% 0 0)}}
-.f1{animation:fl 4s ease-in-out infinite} .f2{animation:fl 5s ease-in-out infinite .8s} .f3{animation:fl 4.5s ease-in-out infinite 1.6s}
-.tw{animation:tw 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-.sway{animation:sw 5s ease-in-out infinite;transform-origin:0 0}
-.c{animation:bl 1s steps(1) infinite}
-.pop{animation:pop .9s cubic-bezier(.2,.8,.3,1) both}
-.code text{animation:ln 9s steps(22) infinite}
-</style>
-<g clip-path="url(#r)">
-<rect width="1000" height="400" fill="url(#bg)"/>
-<circle cx="90" cy="60" r="140" fill="#4A4784" opacity=".5"><animate attributeName="r" values="140;160;140" dur="7s" repeatCount="indefinite"/></circle>
-<circle cx="930" cy="350" r="160" fill="#4A4784" opacity=".5"><animate attributeName="r" values="160;140;160" dur="9s" repeatCount="indefinite"/></circle>
-<g fill="none" stroke="#F4A6DC" stroke-width="1.5" opacity=".25"><circle cx="690" cy="170" r="150" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 690 170" to="360 690 170" dur="40s" repeatCount="indefinite"/></circle><circle cx="690" cy="170" r="190" stroke="#A8E6A1" stroke-dasharray="2 14"><animateTransform attributeName="transform" type="rotate" from="360 690 170" to="0 690 170" dur="55s" repeatCount="indefinite"/></circle></g>
-<path class="tw" style="animation-delay:0s" fill="#F4A6DC" d="M520 22l4.8 11.2 11.2 4.8-11.2 4.8-4.8 11.2-4.8-11.2-11.2-4.8 11.2-4.8z"/><path class="tw" style="animation-delay:0.6s" fill="#A8E6A1" d="M960 139l3.3 7.699999999999999 7.699999999999999 3.3-7.699999999999999 3.3-3.3 7.699999999999999-3.3-7.699999999999999-7.699999999999999-3.3 7.699999999999999-3.3z"/><path class="tw" style="animation-delay:1.2s" fill="#FFD27A" d="M70 327l3.9 9.1 9.1 3.9-9.1 3.9-3.9 9.1-3.9-9.1-9.1-3.9 9.1-3.9z"/><path class="tw" style="animation-delay:1.8s" fill="#F4A6DC" d="M700 333l3.5999999999999996 8.399999999999999 8.399999999999999 3.5999999999999996-8.399999999999999 3.5999999999999996-3.5999999999999996 8.399999999999999-3.5999999999999996-8.399999999999999-8.399999999999999-3.5999999999999996 8.399999999999999-3.5999999999999996z"/><path class="tw" style="animation-delay:0.9s" fill="#A8E6A1" d="M300 20l3.0 7.0 7.0 3.0-7.0 3.0-3.0 7.0-3.0-7.0-7.0-3.0 7.0-3.0z"/><path class="tw" style="animation-delay:0.3s" fill="#FFD27A" d="M930 51l2.6999999999999997 6.3 6.3 2.6999999999999997-6.3 2.6999999999999997-2.6999999999999997 6.3-2.6999999999999997-6.3-6.3-2.6999999999999997 6.3-2.6999999999999997z"/><g transform="translate(30 400) rotate(-80) scale(1.3)"><g class="sway" style="animation-delay:0s">
-<path d="M0 0 C 18 -34 52 -38 66 -4 C 44 22 12 24 0 0Z" fill="#A8E6A1"/>
-<path d="M2 0 L 56 -10" stroke="#2B2956" stroke-width="2" opacity=".35" fill="none"/></g></g><g transform="translate(50 400) rotate(-55) scale(1.0)"><g class="sway" style="animation-delay:0.7s">
-<path d="M0 0 C 18 -34 52 -38 66 -4 C 44 22 12 24 0 0Z" fill="#F4A6DC"/>
-<path d="M2 0 L 56 -10" stroke="#2B2956" stroke-width="2" opacity=".35" fill="none"/></g></g><g transform="translate(960 400) rotate(-100) scale(1.4)"><g class="sway" style="animation-delay:0.4s">
-<path d="M0 0 C 18 -34 52 -38 66 -4 C 44 22 12 24 0 0Z" fill="#A8E6A1"/>
-<path d="M2 0 L 56 -10" stroke="#2B2956" stroke-width="2" opacity=".35" fill="none"/></g></g><g transform="translate(985 400) rotate(-125) scale(1.0)"><g class="sway" style="animation-delay:1.1s">
-<path d="M0 0 C 18 -34 52 -38 66 -4 C 44 22 12 24 0 0Z" fill="#F4A6DC"/>
-<path d="M2 0 L 56 -10" stroke="#2B2956" stroke-width="2" opacity=".35" fill="none"/></g></g>
-<g class="f1"><g class="pop" style="animation-delay:.1s">
-<rect x="40" y="48" width="330" height="205" rx="14" fill="#2B2956" stroke="#A8E6A1" stroke-width="3"/>
-<path d="M40 62a14 14 0 0 1 14-14h302a14 14 0 0 1 14 14v22H40z" fill="#A8E6A1"/>
-<circle cx="62" cy="66" r="6" fill="#F4A6DC"/><circle cx="82" cy="66" r="6" fill="#FFD27A"/><circle cx="102" cy="66" r="6" fill="#3A3768"/>
-<g class="m code" font-size="15">
-<text x="62" y="112" fill="#F4A6DC" style="animation-delay:0s">const <tspan fill="#F5F0E1">meenakshi = {</tspan></text>
-<text x="82" y="138" fill="#A8E6A1" style="animation-delay:.35s">role: <tspan fill="#FFD27A">"AI/ML + Web"</tspan></text>
-<text x="82" y="164" fill="#A8E6A1" style="animation-delay:.7s">stack: <tspan fill="#FFD27A">["Py","TS","React"]</tspan></text>
-<text x="82" y="190" fill="#A8E6A1" style="animation-delay:1.05s">shipping: <tspan fill="#F4A6DC">true</tspan></text>
-<text x="62" y="216" fill="#F5F0E1" style="animation-delay:1.4s">}</text></g>
-<rect class="c" x="76" y="203" width="9" height="16" fill="#F4A6DC"/>
-</g></g>
-<text class="t pop" x="410" y="125" font-size="64" fill="url(#shine)" style="animation-delay:.3s">Hi, I'm Meenakshi</text>
-<text class="t pop" x="412" y="185" font-size="38" fill="#A8E6A1" style="animation-delay:.55s">AI/ML + Full-Stack Developer</text>
-<text class="m pop" x="414" y="228" font-size="18" fill="#F5F0E1" opacity=".9" style="animation-delay:.8s">&gt; building practical AI apps, one project at a time<tspan class="c" fill="#F4A6DC">_</tspan></text>
-<g class="f2"><g class="pop" style="animation-delay:0.9s"><rect x="410" y="262" width="130" height="62" rx="12" fill="#F5F0E1" stroke="#F4A6DC" stroke-width="3"/><text class="t" x="475.0" y="300" font-size="20" fill="#3A3768" text-anchor="middle">Python</text></g></g><g class="f3"><g class="pop" style="animation-delay:1.05s"><rect x="560" y="262" width="130" height="62" rx="12" fill="#F5F0E1" stroke="#A8E6A1" stroke-width="3"/><text class="t" x="625.0" y="300" font-size="20" fill="#3A3768" text-anchor="middle">OpenCV</text></g></g><g class="f1"><g class="pop" style="animation-delay:1.2s"><rect x="710" y="262" width="130" height="62" rx="12" fill="#F5F0E1" stroke="#F4A6DC" stroke-width="3"/><text class="t" x="775.0" y="300" font-size="20" fill="#3A3768" text-anchor="middle">Next.js</text></g></g><g class="f2"><g class="pop" style="animation-delay:1.35s"><rect x="860" y="262" width="110" height="62" rx="12" fill="#F5F0E1" stroke="#A8E6A1" stroke-width="3"/><text class="t" x="915.0" y="300" font-size="20" fill="#3A3768" text-anchor="middle">PyTorch</text></g></g>
-<g class="f3"><g class="pop" style="animation-delay:1.2s">
-<rect x="40" y="276" width="330" height="82" rx="14" fill="#F5F0E1" stroke="#F4A6DC" stroke-width="3"/>
-<circle cx="62" cy="294" r="5" fill="#F4A6DC"/><circle cx="80" cy="294" r="5" fill="#FFD27A"/><circle cx="98" cy="294" r="5" fill="#A8E6A1"/>
-<text class="t" x="62" y="324" font-size="16" fill="#3A3768">🎓 CS @ Sri Shakthi · 2028</text>
-<text class="t" x="62" y="346" font-size="16" fill="#3A3768">🌱 Building AI apps in public</text></g></g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" width="1000" height="480">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#231E3D">
+        <animate attributeName="stop-color" values="#231E3D;#2D264E;#231E3D" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#332B57">
+        <animate attributeName="stop-color" values="#332B57;#3D3468;#332B57" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#201B39">
+        <animate attributeName="stop-color" values="#201B39;#282247;#201B39" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Shimmer Gradient for Title -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFAEDB"/>
+      <stop offset="35%" stop-color="#FFAEDB"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="65%" stop-color="#FFAEDB"/>
+      <stop offset="100%" stop-color="#FFAEDB"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-600 0" to="800 0" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Clip Path for Banner Rounded Corners -->
+    <clipPath id="bannerClip">
+      <rect width="1000" height="480" rx="26" ry="26"/>
+    </clipPath>
+
+    <!-- Drop Shadow Filter for Windows -->
+    <filter id="shadow" x="-8%" y="-8%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#141126" flood-opacity="0.45"/>
+    </filter>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style><![CDATA[
+    @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700;900&family=Fira+Code:wght@500;700&family=Quicksand:wght@700;800&display=swap');
+
+    .title-font { font-family: 'Comfortaa', 'Quicksand', 'Segoe UI', system-ui, sans-serif; font-weight: 900; }
+    .sub-font { font-family: 'Quicksand', 'Comfortaa', 'Segoe UI', system-ui, sans-serif; font-weight: 800; }
+    .code-font { font-family: 'Fira Code', 'Courier New', monospace; font-weight: 600; }
+    .ui-font { font-family: 'Quicksand', 'Segoe UI', system-ui, sans-serif; font-weight: 700; }
+
+    /* Floating Animations */
+    @keyframes float1 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-9px) rotate(1deg); } }
+    @keyframes float2 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-11px) rotate(-1.5deg); } }
+    @keyframes float3 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-7px) rotate(0.8deg); } }
+    @keyframes float4 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-1deg); } }
+    @keyframes floatCards { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-6px); } }
+
+    /* Botanical Swaying Animations */
+    @keyframes swaySoft { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(4deg); } }
+    @keyframes swayVine { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-5deg); } }
+    @keyframes swayLeaf { 0%, 100% { transform: scale(1) rotate(0deg); } 50% { transform: scale(1.05) rotate(6deg); } }
+
+    /* Twinkling Stars */
+    @keyframes twinkle { 0%, 100% { opacity: 0.2; transform: scale(0.7); } 50% { opacity: 1; transform: scale(1.25); } }
+    @keyframes pulseAura { 0%, 100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 0.65; transform: scale(1.1); } }
+
+    /* Steam Rising from Coffee */
+    @keyframes steamRise {
+      0% { opacity: 0; transform: translateY(0) scaleX(1); }
+      30% { opacity: 0.8; }
+      70% { opacity: 0.4; }
+      100% { opacity: 0; transform: translateY(-24px) scaleX(1.3); }
+    }
+
+    /* Terminal and Code Typing */
+    @keyframes cursorBlink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes typeLine1 { 0%, 15% { clip-path: inset(0 100% 0 0); } 30%, 92% { clip-path: inset(0 0 0 0); } 100% { clip-path: inset(0 100% 0 0); } }
+    @keyframes typeLine2 { 0%, 30% { clip-path: inset(0 100% 0 0); } 48%, 92% { clip-path: inset(0 0 0 0); } 100% { clip-path: inset(0 100% 0 0); } }
+    @keyframes typeLine3 { 0%, 50% { clip-path: inset(0 100% 0 0); } 70%, 92% { clip-path: inset(0 0 0 0); } 100% { clip-path: inset(0 100% 0 0); } }
+
+    .fl1 { animation: float1 4.8s ease-in-out infinite; }
+    .fl2 { animation: float2 5.6s ease-in-out infinite 0.5s; }
+    .fl3 { animation: float3 4.2s ease-in-out infinite 1.2s; }
+    .fl4 { animation: float4 5.2s ease-in-out infinite 0.8s; }
+    .fl-card { animation: floatCards 5s ease-in-out infinite; }
+
+    .sway-soft { animation: swaySoft 6s ease-in-out infinite; transform-origin: top center; }
+    .sway-vine { animation: swayVine 7s ease-in-out infinite; transform-origin: top right; }
+    .sway-leaf { animation: swayLeaf 4.5s ease-in-out infinite; transform-origin: bottom center; }
+
+    .tw1 { animation: twinkle 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .tw2 { animation: twinkle 3.2s ease-in-out infinite 0.7s; transform-box: fill-box; transform-origin: center; }
+    .tw3 { animation: twinkle 2.9s ease-in-out infinite 1.4s; transform-box: fill-box; transform-origin: center; }
+
+    .st1 { animation: steamRise 3.2s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .st2 { animation: steamRise 3.2s cubic-bezier(0.4, 0, 0.2, 1) infinite 1.1s; }
+    .st3 { animation: steamRise 3.2s cubic-bezier(0.4, 0, 0.2, 1) infinite 2.2s; }
+
+    .cursor { animation: cursorBlink 0.9s steps(1) infinite; }
+    .t-l1 { animation: typeLine1 10s steps(20) infinite; }
+    .t-l2 { animation: typeLine2 10s steps(22) infinite; }
+    .t-l3 { animation: typeLine3 10s steps(20) infinite; }
+  ]]></style>
+
+  <!-- Banner Content Wrapped in Clip -->
+  <g clip-path="url(#bannerClip)">
+    <!-- Base Twilight Background -->
+    <rect width="1000" height="480" fill="url(#bg)"/>
+
+    <!-- Ambient Glow Auras -->
+    <circle cx="160" cy="180" r="160" fill="#4B3B7A" opacity="0.35" class="tw1"/>
+    <circle cx="850" cy="220" r="180" fill="#5A3E7E" opacity="0.25" class="tw2"/>
+    <circle cx="550" cy="80" r="140" fill="#3E3466" opacity="0.3"/>
+
+    <!-- Twinkling Sparkles and Stars -->
+    <!-- Pink Sparkles -->
+    <path class="tw1" fill="#FFAEDB" d="M490 28 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+    <path class="tw2" fill="#FFAEDB" d="M720 18 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+    <path class="tw3" fill="#FFAEDB" d="M965 140 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+    <path class="tw1" fill="#FFAEDB" d="M635 320 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+    <path class="tw2" fill="#FFAEDB" d="M410 240 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+
+    <!-- Mint Sparkles -->
+    <path class="tw2" fill="#A8E6A1" d="M350 45 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+    <path class="tw1" fill="#A8E6A1" d="M600 22 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+    <path class="tw3" fill="#A8E6A1" d="M780 340 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+    <path class="tw2" fill="#A8E6A1" d="M975 280 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+
+    <!-- Yellow Sparkles -->
+    <path class="tw3" fill="#FFD27A" d="M440 85 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+    <path class="tw1" fill="#FFD27A" d="M935 45 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+    <path class="tw2" fill="#FFD27A" d="M685 415 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+
+    <!-- Tiny Glowing Dot Stars -->
+    <circle cx="310" cy="95" r="2" fill="#FFF" opacity="0.6" class="tw1"/>
+    <circle cx="510" cy="115" r="1.5" fill="#FFAEDB" opacity="0.7" class="tw2"/>
+    <circle cx="760" cy="85" r="2" fill="#A8E6A1" opacity="0.6" class="tw3"/>
+    <circle cx="890" cy="110" r="1.5" fill="#FFD27A" opacity="0.8" class="tw1"/>
+    <circle cx="430" cy="30" r="2" fill="#FFF" opacity="0.7" class="tw2"/>
+
+    <!-- ==================== HANGING VINES & CEILING BOTANICALS ==================== -->
+    <g class="sway-vine">
+      <!-- Hanging Vine Top Center -->
+      <path d="M420 -5 Q430 40 422 75 T426 120" fill="none" stroke="#5F8D64" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M422 35 C408 30 402 44 416 48 C424 50 426 42 422 35Z" fill="#88D48E"/>
+      <path d="M423 55 C438 50 444 64 430 68 C422 70 420 62 423 55Z" fill="#A8E6A1"/>
+      <path d="M424 85 C410 80 405 94 418 98 C426 100 427 92 424 85Z" fill="#74C67A"/>
+      <path d="M426 110 C438 105 442 118 430 121 C424 123 423 116 426 110Z" fill="#A8E6A1"/>
+    </g>
+
+    <g class="sway-soft">
+      <!-- Hanging Ivy Top Right -->
+      <path d="M570 -5 Q585 35 578 68 T584 105" fill="none" stroke="#5F8D64" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M578 30 C564 25 560 38 572 42 C578 44 580 36 578 30Z" fill="#A8E6A1"/>
+      <path d="M580 50 C594 45 598 58 586 62 C580 64 578 56 580 50Z" fill="#88D48E"/>
+      <path d="M580 80 C566 75 562 88 574 92 C580 94 582 86 580 80Z" fill="#A8E6A1"/>
+    </g>
+
+    <!-- Top Left Hanging Shelf Vine -->
+    <g class="sway-soft">
+      <path d="M120 -5 Q115 30 122 55 T118 85" fill="none" stroke="#4D7752" stroke-width="2"/>
+      <path d="M118 20 C108 16 104 26 114 30 C119 32 121 25 118 20Z" fill="#A8E6A1"/>
+      <path d="M120 40 C130 36 134 46 124 50 C119 52 117 45 120 40Z" fill="#74C67A"/>
+      <path d="M120 65 C110 60 106 72 116 75 C121 77 122 70 120 65Z" fill="#A8E6A1"/>
+    </g>
+
+
+    <!-- ==================== COZY DESK SETUP (LEFT SIDE) ==================== -->
+    <g id="desk-scene">
+      <!-- Shelf Unit Background Shadow -->
+      <rect x="25" y="70" width="165" height="14" rx="4" fill="#2E2442"/>
+
+      <!-- Shelf Plant 1 (Potted Ivy / Hanging Succulent) -->
+      <rect x="35" y="68" width="145" height="10" rx="3" fill="#5C476E"/>
+      <!-- Books on Shelf -->
+      <rect x="42" y="38" width="12" height="30" rx="2" fill="#FFAEDB"/>
+      <rect x="56" y="34" width="14" height="34" rx="2" fill="#74C67A"/>
+      <rect x="72" y="42" width="10" height="26" rx="2" fill="#FFD27A"/>
+      <!-- Potted plant on shelf -->
+      <path d="M125 48 L145 48 L141 68 L129 68 Z" fill="#FFAEDB" stroke="#231E3D" stroke-width="2"/>
+      <ellipse cx="135" cy="48" rx="10" ry="3" fill="#D98CB7"/>
+      <!-- Sprouting leaves on shelf pot -->
+      <g class="sway-soft">
+        <path d="M135 48 Q125 35 120 38 Q124 45 135 48 Z" fill="#A8E6A1"/>
+        <path d="M135 48 Q135 30 138 32 Q142 42 135 48 Z" fill="#74C67A"/>
+        <path d="M135 48 Q146 36 150 40 Q144 46 135 48 Z" fill="#A8E6A1"/>
+      </g>
+
+      <!-- Main Wooden Desk Surface -->
+      <rect x="20" y="325" width="370" height="18" rx="6" fill="#4B385E" stroke="#251E33" stroke-width="2.5"/>
+      <rect x="24" y="339" width="362" height="70" rx="4" fill="#322642"/>
+      <line x1="30" y1="375" x2="380" y2="375" stroke="#241B33" stroke-width="2"/>
+      <!-- Desk drawer handles -->
+      <rect x="185" y="352" width="30" height="5" rx="2.5" fill="#FFAEDB"/>
+      <rect x="185" y="388" width="30" height="5" rx="2.5" fill="#A8E6A1"/>
+
+      <!-- Vertical Secondary Monitor (Left) -->
+      <g id="vertical-monitor" filter="url(#shadow)">
+        <!-- Stand -->
+        <rect x="100" y="270" width="16" height="58" fill="#3A3052"/>
+        <path d="M85 324 L131 324 L127 328 L89 328 Z" fill="#2E2442"/>
+        <!-- Bezel -->
+        <rect x="36" y="98" width="144" height="196" rx="12" fill="#241D38" stroke="#FFAEDB" stroke-width="3"/>
+        <!-- Screen Content (Botanical UI Art) -->
+        <rect x="42" y="104" width="132" height="184" rx="8" fill="#2B2446"/>
+        <!-- Top bar dots -->
+        <circle cx="54" cy="114" r="3.5" fill="#FFAEDB"/>
+        <circle cx="64" cy="114" r="3.5" fill="#FFD27A"/>
+        <circle cx="74" cy="114" r="3.5" fill="#A8E6A1"/>
+        <!-- Botanical Illustration on Screen -->
+        <path d="M108 240 Q105 180 114 140" fill="none" stroke="#74C67A" stroke-width="2.5"/>
+        <g class="sway-leaf">
+          <path d="M108 210 C88 200 85 185 105 190 C110 195 109 205 108 210Z" fill="#FFAEDB"/>
+          <path d="M109 180 C128 170 132 155 112 160 C107 165 108 175 109 180Z" fill="#A8E6A1"/>
+          <path d="M112 150 C95 140 92 125 110 132 C114 136 113 145 112 150Z" fill="#FFAEDB"/>
+          <path d="M114 140 C114 122 125 120 120 135 C118 138 116 139 114 140Z" fill="#74C67A"/>
+        </g>
+        <!-- Mock code lines on vertical monitor -->
+        <rect x="52" y="252" width="55" height="3" rx="1.5" fill="#FFAEDB" opacity="0.8"/>
+        <rect x="52" y="260" width="80" height="3" rx="1.5" fill="#A8E6A1" opacity="0.7"/>
+        <rect x="52" y="268" width="65" height="3" rx="1.5" fill="#FFD27A" opacity="0.8"/>
+      </g>
+
+      <!-- Main Laptop Workstation (Center-Left) -->
+      <g id="main-laptop" filter="url(#shadow)">
+        <!-- Screen Bezel -->
+        <rect x="145" y="160" width="168" height="122" rx="10" fill="#241D38" stroke="#A8E6A1" stroke-width="3"/>
+        <!-- Inner Code Screen -->
+        <rect x="151" y="166" width="156" height="110" rx="6" fill="#1C172E"/>
+        <!-- Traffic Dots -->
+        <circle cx="162" cy="176" r="3.5" fill="#FFAEDB"/>
+        <circle cx="171" cy="176" r="3.5" fill="#FFD27A"/>
+        <circle cx="180" cy="176" r="3.5" fill="#A8E6A1"/>
+
+        <!-- Animated Typing Code -->
+        <g class="code-font" font-size="9.5">
+          <g class="t-l1">
+            <text x="160" y="199" fill="#FFAEDB">const <tspan fill="#F5F0E1">meenakshi = {</tspan></text>
+          </g>
+          <g class="t-l2">
+            <text x="170" y="215" fill="#A8E6A1">role: <tspan fill="#FFD27A">"AI/ML Dev"</tspan><tspan fill="#F5F0E1">,</tspan></text>
+            <text x="170" y="230" fill="#A8E6A1">focus: <tspan fill="#FFD27A">["CV", "GenAI"]</tspan><tspan fill="#F5F0E1">,</tspan></text>
+          </g>
+          <g class="t-l3">
+            <text x="170" y="245" fill="#A8E6A1">shipped: <tspan fill="#FFAEDB">true</tspan></text>
+            <text x="160" y="260" fill="#F5F0E1">};</text>
+          </g>
+        </g>
+        <!-- Blinking Terminal Cursor -->
+        <rect class="cursor" x="180" y="252" width="5" height="9" fill="#A8E6A1"/>
+
+        <!-- Laptop Base / Keyboard -->
+        <path d="M130 282 L328 282 L340 318 L118 318 Z" fill="#2D2545" stroke="#201A33" stroke-width="2"/>
+        <rect x="160" y="286" width="138" height="20" rx="3" fill="#201A33"/>
+        <!-- Trackpad -->
+        <rect x="206" y="308" width="46" height="8" rx="2" fill="#3D3259"/>
+      </g>
+
+      <!-- Cozy Coffee Mug with Steam (x: 326, y: 280) -->
+      <g id="coffee-cup">
+        <!-- Saucer -->
+        <ellipse cx="345" cy="324" rx="18" ry="4" fill="#251D33"/>
+        <!-- Mug body -->
+        <path d="M333 294 L357 294 L354 322 L336 322 Z" fill="#FFAEDB" stroke="#251E36" stroke-width="2"/>
+        <!-- Handle -->
+        <path d="M356 298 C366 298 366 316 354 316" fill="none" stroke="#FFAEDB" stroke-width="3" stroke-linecap="round"/>
+        <!-- Heart on Cup -->
+        <path d="M345 304 C342 301 338 303 338 307 C338 311 345 315 345 315 C345 315 352 311 352 307 C352 303 348 301 345 304 Z" fill="#FFF"/>
+
+        <!-- Animated Steam Particles -->
+        <g class="st1">
+          <path d="M341 290 Q338 276 343 266" fill="none" stroke="#FFAEDB" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+        </g>
+        <g class="st2">
+          <path d="M346 288 Q351 274 347 262" fill="none" stroke="#FFF" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+        </g>
+        <g class="st3">
+          <path d="M350 290 Q346 278 351 268" fill="none" stroke="#A8E6A1" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+        </g>
+      </g>
+
+      <!-- Notebook & Accessories on Desk -->
+      <g id="desk-notebook">
+        <!-- Open Spiral Notebook (x: 48, y: 334) -->
+        <rect x="46" y="336" width="62" height="42" rx="4" fill="#FFF9E6" stroke="#251E36" stroke-width="2"/>
+        <line x1="56" y1="344" x2="98" y2="344" stroke="#D8C7A5" stroke-width="1.5"/>
+        <line x1="56" y1="352" x2="98" y2="352" stroke="#D8C7A5" stroke-width="1.5"/>
+        <line x1="56" y1="360" x2="88" y2="360" stroke="#D8C7A5" stroke-width="1.5"/>
+        <line x1="56" y1="368" x2="94" y2="368" stroke="#D8C7A5" stroke-width="1.5"/>
+        <!-- Pastel Bookmark Ribbon -->
+        <path d="M72 334 L72 355 L76 351 L80 355 L80 334 Z" fill="#FFAEDB"/>
+        <!-- Pencil beside notebook -->
+        <rect x="114" y="342" width="5" height="34" rx="2" fill="#FFD27A" transform="rotate(15 114 342)"/>
+      </g>
+
+      <!-- Floor / Desk Potted Monstera Plant (Front-Left) -->
+      <g id="desk-monstera" class="sway-soft" style="transform-origin: 30px 470px;">
+        <!-- Terracotta Pot -->
+        <path d="M12 425 L48 425 L43 475 L17 475 Z" fill="#E2847A" stroke="#251E36" stroke-width="2.5"/>
+        <rect x="9" y="420" width="42" height="8" rx="3" fill="#FFAEDB"/>
+        <!-- Large Lush Leaves -->
+        <path d="M30 422 C10 395 -5 360 12 330 C28 360 40 395 30 422Z" fill="#5F9E66"/>
+        <path d="M30 422 C30 380 45 350 72 335 C65 370 52 400 30 422Z" fill="#74C67A"/>
+        <path d="M30 422 C-5 410 -20 375 0 365 C12 385 24 405 30 422Z" fill="#88D48E"/>
+        <path d="M30 422 C45 415 65 385 58 370 C48 390 38 410 30 422Z" fill="#A8E6A1"/>
+      </g>
+    </g>
+
+
+    <!-- ==================== CENTER BRANDING & TYPOGRAPHY ==================== -->
+    <g id="center-title">
+      <!-- Title Drop Shadow Layer -->
+      <text class="title-font" x="412" y="106" font-size="58" fill="#171329" letter-spacing="-1">Hi, I'm Meenakshi</text>
+
+      <!-- Main Animated Shimmer Title -->
+      <text class="title-font" x="410" y="102" font-size="58" fill="url(#shimmer)" letter-spacing="-1">Hi, I'm Meenakshi</text>
+
+      <!-- Subtitle Badge with Soft Glowing Backdrop -->
+      <g class="fl3">
+        <!-- Mint Subtitle -->
+        <text class="sub-font" x="412" y="152" font-size="30" fill="#171329">AI/ML + Full-Stack Developer</text>
+        <text class="sub-font" x="410" y="150" font-size="30" fill="#A8E6A1">AI/ML + Full-Stack Developer</text>
+      </g>
+
+      <!-- Motto / Live Typing Terminal Bar -->
+      <g transform="translate(410 174)">
+        <rect width="320" height="30" rx="8" fill="#1C172E" stroke="#FFAEDB" stroke-width="1.5" opacity="0.95"/>
+        <text class="code-font" x="14" y="20" font-size="12" fill="#F5F0E1">
+          <tspan fill="#A8E6A1">&gt;</tspan> building practical AI apps<tspan class="cursor" fill="#FFAEDB">_</tspan>
+        </text>
+      </g>
+    </g>
+
+
+    <!-- ==================== FLOATING TECH WINDOW BADGES (RIGHT SIDE) ==================== -->
+    <!-- 1. Python Mini Window (Top Right) -->
+    <g class="fl1" transform="translate(745 35)" filter="url(#shadow)">
+      <rect width="102" height="92" rx="14" fill="#FBF8F3" stroke="#FFAEDB" stroke-width="3"/>
+      <!-- Window top bar -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L88 0 C95.73 0 102 6.27 102 14 L102 22 L0 22 Z" fill="#FFAEDB"/>
+      <circle cx="16" cy="11" r="3" fill="#FF70A6"/>
+      <circle cx="25" cy="11" r="3" fill="#FFD27A"/>
+      <circle cx="34" cy="11" r="3" fill="#A8E6A1"/>
+      <!-- Python Vector Logo -->
+      <g transform="translate(34 30) scale(0.72)">
+        <path d="M23.6 0 C10.8 0 11.7 5.5 11.7 5.5 L11.7 11.2 L24 11.2 L24 12.9 L6.9 12.9 C0 12.9 0 20.6 0 20.6 C0 26.8 4.2 27.6 7.4 28.1 L10.5 28.1 L10.5 24.2 C10.5 19.8 14.1 16.2 18.5 16.2 L30.8 16.2 C35.4 16.2 38.6 12.9 38.6 8.5 C38.6 0.8 28.2 0 23.6 0 Z M17.2 3.7 C18.5 3.7 19.6 4.7 19.6 6 C19.6 7.3 18.5 8.3 17.2 8.3 C15.9 8.3 14.8 7.3 14.8 6 C14.8 4.7 15.9 3.7 17.2 3.7 Z" fill="#387EB8"/>
+        <path d="M24.4 48 C37.2 48 36.3 42.5 36.3 42.5 L36.3 36.8 L24 36.8 L24 35.1 L41.1 35.1 C48 35.1 48 27.4 48 27.4 C48 21.2 43.8 20.4 40.6 19.9 L37.5 19.9 L37.5 23.8 C37.5 28.2 33.9 31.8 29.5 31.8 L17.2 31.8 C12.6 31.8 9.4 35.1 9.4 39.5 C9.4 47.2 19.8 48 24.4 48 Z M30.8 44.3 C29.5 44.3 28.4 43.3 28.4 42 C28.4 40.7 29.5 39.7 30.8 39.7 C32.1 39.7 33.2 40.7 33.2 42 C33.2 43.3 32.1 44.3 30.8 44.3 Z" fill="#FFE052"/>
+      </g>
+      <text class="ui-font" x="51" y="80" font-size="13" font-weight="800" fill="#241D38" text-anchor="middle">Python</text>
+    </g>
+
+    <!-- 2. OpenCV Mini Window (Top Far Right) -->
+    <g class="fl2" transform="translate(868 40)" filter="url(#shadow)">
+      <rect width="102" height="92" rx="14" fill="#FBF8F3" stroke="#A8E6A1" stroke-width="3"/>
+      <!-- Window top bar -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L88 0 C95.73 0 102 6.27 102 14 L102 22 L0 22 Z" fill="#A8E6A1"/>
+      <circle cx="16" cy="11" r="3" fill="#FFAEDB"/>
+      <circle cx="25" cy="11" r="3" fill="#FFD27A"/>
+      <circle cx="34" cy="11" r="3" fill="#4CAF50"/>
+      <!-- OpenCV Vector 3 Circles -->
+      <g transform="translate(51 46)">
+        <!-- Top Red Ring -->
+        <circle cx="0" cy="-11" r="8" fill="none" stroke="#FF4D4D" stroke-width="4"/>
+        <!-- Bottom Left Green Ring -->
+        <circle cx="-10" cy="7" r="8" fill="none" stroke="#2ED573" stroke-width="4"/>
+        <!-- Bottom Right Blue Ring -->
+        <circle cx="10" cy="7" r="8" fill="none" stroke="#1E90FF" stroke-width="4"/>
+      </g>
+      <text class="ui-font" x="51" y="80" font-size="13" font-weight="800" fill="#241D38" text-anchor="middle">OpenCV</text>
+    </g>
+
+    <!-- 3. Next.js Mini Window (Mid Right) -->
+    <g class="fl3" transform="translate(830 150)" filter="url(#shadow)">
+      <rect width="134" height="66" rx="14" fill="#FBF8F3" stroke="#FFAEDB" stroke-width="3"/>
+      <!-- Window top bar -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L120 0 C127.73 0 134 6.27 134 14 L134 18 L0 18 Z" fill="#FFAEDB"/>
+      <circle cx="15" cy="9" r="2.5" fill="#FF70A6"/>
+      <circle cx="23" cy="9" r="2.5" fill="#FFD27A"/>
+      <circle cx="31" cy="9" r="2.5" fill="#A8E6A1"/>
+      <!-- Next.js Brand Mark -->
+      <g transform="translate(20 26)">
+        <text class="title-font" x="46" y="27" font-size="22" font-weight="900" fill="#000" letter-spacing="-0.5">NEXT<tspan font-size="13" font-weight="700">.JS</tspan></text>
+      </g>
+    </g>
+
+    <!-- 4. PyTorch Mini Window (Lower Right) -->
+    <g class="fl4" transform="translate(775 235)" filter="url(#shadow)">
+      <rect width="145" height="70" rx="14" fill="#FBF8F3" stroke="#A8E6A1" stroke-width="3"/>
+      <!-- Window top bar -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L131 0 C138.73 0 145 6.27 145 14 L145 18 L0 18 Z" fill="#A8E6A1"/>
+      <circle cx="15" cy="9" r="2.5" fill="#FFAEDB"/>
+      <circle cx="23" cy="9" r="2.5" fill="#FFD27A"/>
+      <circle cx="31" cy="9" r="2.5" fill="#4CAF50"/>
+      <!-- PyTorch Flame Icon + Text -->
+      <g transform="translate(18 26)">
+        <!-- PyTorch Flame -->
+        <g transform="translate(6 2) scale(0.65)">
+          <path d="M18 0 C16 4 12 7 8 11 C4 15 2 20 2 25 C2 35 10 42 20 42 C30 42 38 35 38 25 C38 18 34 12 28 8 L24 13 C27 16 30 20 30 25 C30 30 26 34 20 34 C14 34 10 30 10 25 C10 21 12 18 15 15 Z" fill="#EE4C2C"/>
+          <circle cx="28" cy="7" r="3.5" fill="#EE4C2C"/>
+        </g>
+        <text class="ui-font" x="40" y="27" font-size="21" font-weight="900" fill="#241D38">PyTorch</text>
+      </g>
+    </g>
+
+    <!-- 5. Cute Retro Mini Laptop with Python Sticker (x: 615, y: 220) -->
+    <g class="fl2" transform="translate(615 220)" filter="url(#shadow)">
+      <!-- Mini laptop screen -->
+      <rect x="18" y="10" width="84" height="62" rx="8" fill="#E8DDF2" stroke="#FFAEDB" stroke-width="2.5"/>
+      <rect x="23" y="15" width="74" height="52" rx="5" fill="#231C39"/>
+      <!-- Python Heart Sticker on Screen -->
+      <g transform="translate(48 28) scale(0.55)">
+        <circle cx="22" cy="22" r="18" fill="#FFAEDB"/>
+        <path d="M18 10 C14 10 12 13 12 16 L12 20 L18 20 L18 22 L9 22 C6 22 4 25 4 28 C4 31 7 32 10 32 L12 32 L12 30 C12 27 14 25 18 25 L24 25 C28 25 30 23 30 20 C30 14 24 10 18 10 Z" fill="#387EB8"/>
+        <path d="M26 34 C30 34 32 31 32 28 L32 24 L26 24 L26 22 L35 22 C38 22 40 19 40 16 C40 13 37 12 34 12 L32 12 L32 14 C32 17 30 19 26 19 L20 19 C16 19 14 21 14 24 C14 30 20 34 26 34 Z" fill="#FFE052"/>
+      </g>
+      <!-- Laptop base -->
+      <path d="M6 72 L114 72 L122 86 L0 86 Z" fill="#D3C3E3" stroke="#251E36" stroke-width="2"/>
+      <!-- Mini succulent pot beside laptop -->
+      <path d="M125 65 L140 65 L137 84 L128 84 Z" fill="#FFAEDB" stroke="#251E36" stroke-width="1.5"/>
+      <path d="M132 65 Q126 52 122 55 Q127 62 132 65 Z" fill="#A8E6A1"/>
+      <path d="M132 65 Q139 50 144 54 Q138 62 132 65 Z" fill="#74C67A"/>
+    </g>
+
+
+    <!-- ==================== FLOATING RETRO STATUS CARDS (BOTTOM-CENTER) ==================== -->
+    <!-- Card 1: CS Student & AI Focus (x: 410, y: 225) -->
+    <g class="fl-card" transform="translate(410 225)" filter="url(#shadow)">
+      <rect width="250" height="114" rx="14" fill="#FDFBF7" stroke="#FFAEDB" stroke-width="3"/>
+      <!-- Card Header -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L236 0 C243.73 0 250 6.27 250 14 L250 24 L0 24 Z" fill="#FFAEDB"/>
+      <circle cx="16" cy="12" r="3.5" fill="#FF70A6"/>
+      <circle cx="27" cy="12" r="3.5" fill="#FFD27A"/>
+      <circle cx="38" cy="12" r="3.5" fill="#A8E6A1"/>
+
+      <!-- Item 1: CS Student -->
+      <g transform="translate(10 32)">
+        <rect width="230" height="23" rx="11.5" fill="#F3ECF8" stroke="#FFAEDB" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">🌸 CS Student @ Sri Shakthi</text>
+      </g>
+
+      <!-- Item 2: Building AI Apps -->
+      <g transform="translate(10 59)">
+        <rect width="230" height="23" rx="11.5" fill="#F3ECF8" stroke="#FFAEDB" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">🌱 Building practical AI apps</text>
+      </g>
+
+      <!-- Item 3: DSA & Deep Learning -->
+      <g transform="translate(10 86)">
+        <rect width="230" height="23" rx="11.5" fill="#F3ECF8" stroke="#FFAEDB" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">📚 DSA &amp; Deep Learning</text>
+      </g>
+    </g>
+
+    <!-- Card 2: Projects & Full-Stack (x: 410, y: 350) -->
+    <g class="fl3" transform="translate(410 350)" filter="url(#shadow)">
+      <rect width="250" height="114" rx="14" fill="#FDFBF7" stroke="#A8E6A1" stroke-width="3"/>
+      <!-- Card Header -->
+      <path d="M0 14 C0 6.27 6.27 0 14 0 L236 0 C243.73 0 250 6.27 250 14 L250 24 L0 24 Z" fill="#A8E6A1"/>
+      <circle cx="16" cy="12" r="3.5" fill="#FFAEDB"/>
+      <circle cx="27" cy="12" r="3.5" fill="#FFD27A"/>
+      <circle cx="38" cy="12" r="3.5" fill="#4CAF50"/>
+
+      <!-- Item 1: Shipped 6+ Projects -->
+      <g transform="translate(10 32)">
+        <rect width="230" height="23" rx="11.5" fill="#EAF6EC" stroke="#A8E6A1" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">✨ Shipped 6+ Projects</text>
+      </g>
+
+      <!-- Item 2: Full-Stack & GenAI -->
+      <g transform="translate(10 59)">
+        <rect width="230" height="23" rx="11.5" fill="#EAF6EC" stroke="#A8E6A1" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">⛺ Full-Stack &amp; GenAI</text>
+      </g>
+
+      <!-- Item 3: Open to Collaborate -->
+      <g transform="translate(10 86)">
+        <rect width="230" height="23" rx="11.5" fill="#EAF6EC" stroke="#A8E6A1" stroke-width="1.2"/>
+        <text class="ui-font" x="12" y="16" font-size="11.5" fill="#241D38">🤝 Open to Collaborate</text>
+      </g>
+    </g>
+
+    <!-- Additional Potted Succulent in Bottom Center/Right (x: 672, y: 395) -->
+    <g class="sway-soft" transform="translate(672 385)" filter="url(#shadow)">
+      <path d="M12 45 L38 45 L34 78 L16 78 Z" fill="#FFAEDB" stroke="#251E36" stroke-width="2"/>
+      <ellipse cx="25" cy="45" rx="13" ry="4" fill="#D98CB7"/>
+      <!-- Succulent fleshy leaves radiating -->
+      <path d="M25 45 C15 32 10 22 18 16 C25 22 25 35 25 45Z" fill="#A8E6A1"/>
+      <path d="M25 45 C35 32 40 22 32 16 C25 22 25 35 25 45Z" fill="#74C67A"/>
+      <path d="M25 45 C20 30 25 15 25 10 C28 20 28 32 25 45Z" fill="#88D48E"/>
+      <path d="M25 45 C8 40 4 30 12 25 C20 32 22 40 25 45Z" fill="#74C67A"/>
+      <path d="M25 45 C42 40 46 30 38 25 C30 32 28 40 25 45Z" fill="#A8E6A1"/>
+    </g>
+  </g>
+</svg>
