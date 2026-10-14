@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Hi, I'm Meenakshi — AI/ML + Full-Stack Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/hero.svg" alt="Hi, I'm Meenakshi — AI/ML + Full-Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="Quick stats" width="100%"/>
+  <img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/stats.svg" alt="Quick stats" width="100%"/>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/divider.svg" width="100%"/>
 
 ## 🌸 About Me
 
 <p align="center">
-  <img src="assets/about-terminal.svg" alt="About Meenakshi terminal" width="85%"/>
+  <img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/about-terminal.svg" alt="About Meenakshi terminal" width="85%"/>
 </p>
 
 <table>
@@ -46,12 +46,12 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/divider.svg" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="assets/marquee.svg" alt="Tech stack marquee" width="100%"/>
+  <img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/marquee.svg" alt="Tech stack marquee" width="100%"/>
 </p>
 
 <p align="center">
@@ -65,28 +65,28 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/divider.svg" width="100%"/>
 
 ## 🚀 Featured Work
 
 <table>
 <tr>
-<td align="center" width="50%"><a href="https://github.com/meenakshichidambaram767-arch/grademind"><img src="assets/project-grademind.svg" alt="GradeMIND"/></a></td>
-<td align="center" width="50%"><a href="https://github.com/meenakshichidambaram767-arch/bloomtale"><img src="assets/project-bloomtale.svg" alt="BloomTale"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/meenakshichidambaram767-arch/grademind"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-grademind.svg" alt="GradeMIND"/></a></td>
+<td align="center" width="50%"><a href="https://github.com/meenakshichidambaram767-arch/bloomtale"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-bloomtale.svg" alt="BloomTale"/></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/minchal"><img src="assets/project-minchal.svg" alt="Minchal"/></a></td>
-<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/goodboxd"><img src="assets/project-goodboxd.svg" alt="GOODBOXD"/></a></td>
+<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/minchal"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-minchal.svg" alt="Minchal"/></a></td>
+<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/goodboxd"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-goodboxd.svg" alt="GOODBOXD"/></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/ridemate"><img src="assets/project-ridemate.svg" alt="RIDEMATE"/></a></td>
-<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring"><img src="assets/project-classroom.svg" alt="Classroom & Exam Monitoring"/></a></td>
+<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/ridemate"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-ridemate.svg" alt="RIDEMATE"/></a></td>
+<td align="center"><a href="https://github.com/meenakshichidambaram767-arch/classroom-exam-monitoring"><img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/project-classroom.svg" alt="Classroom & Exam Monitoring"/></a></td>
 </tr>
 </table>
 
 <p align="center"><sub>🧭 Also exploring: <b>Pathfinder</b> — AI-powered career guidance</sub></p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/divider.svg" width="100%"/>
 
 ## 📊 GitHub Dashboard
 
@@ -109,7 +109,7 @@
   <img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/meenakshichidambaram767-arch/meenakshichidambaram767-arch/main/assets/divider.svg" width="100%"/>
 
 ## 💌 Let's Connect
 
