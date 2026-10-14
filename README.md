@@ -154,10 +154,6 @@
 </table>
 
 <p align="center">
-  🧭 <i>Also exploring:</i> <b>Pathfinder</b> — <i>AI-powered personalized career guidance & roadmaps</i> 🌸
-</p>
-
-<p align="center">
   <img src="./assets/divider.svg" width="100%"/>
 </p>
 
